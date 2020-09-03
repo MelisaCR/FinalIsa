@@ -35,12 +35,12 @@
     top: 490px;
   }
 
-      .quien:hover
+      .imagen:hover
    {    	
    	position:absolute;
    	width:240px; 
    	height:540px;
-   	background-image: url("quien2.jpg");
+   	background-image: url("imagen.jpg");
     left: 250px;
     top: 490px;
 }
